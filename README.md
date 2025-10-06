@@ -45,9 +45,8 @@ C:\Program Files (x86)\AzureConnectedMachineAgent*
 2.Second GET with Authorization: Basic to obtain token JSON.   
 Write JSON to OUTFILE, fetch via SMB, and delete the file.
 ### 📸 Screenshots
-<img width="1201" height="450" alt="2025-10-05_16h20_40" src="https://github.com/user-attachments/assets/31a6fe6a-7b17-4ead-8f4f-461993a402c8" />
-<img width="1189" height="391" alt="2025-10-05_17h29_40" src="https://github.com/user-attachments/assets/66d38783-4033-4e86-a293-f69149ceb5ff" />
-
+<img width="1201" height="450" alt="2025-10-05_16h20_40" src="https://github.com/user-attachments/assets/331bf94f-a2bc-428d-a804-2d22b009e9c0" />
+<img width="1189" height="391" alt="2025-10-05_17h29_40" src="https://github.com/user-attachments/assets/4119cda4-1a80-413a-add5-79dcdd950a8f" />
 
 
 ### 🔒 OPSEC & Scope Notes
