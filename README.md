@@ -139,6 +139,12 @@ CLOUDAP     10.0.0.1        445    dev-machine1     [+] cloudap section #1 (pypy
 https://dirkjanm.io/digging-further-into-the-primary-refresh-token/
 https://dirkjanm.io/assets/raw/romhack_dirkjan.pdf
 
+**pypykatz**  
+http://github.com/skelsec/pypykatz
+
+**lsassy**  
+https://github.com/login-securite/lsassy
+
 ---
 
 ## 🛠️ Installation
